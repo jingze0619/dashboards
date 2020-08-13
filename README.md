@@ -1,2 +1,2 @@
 # dashboards
-SAS VA Dashboard with all faked data
+SAS Visual analytics (VA)Dashboard with faked data
